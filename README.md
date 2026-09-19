@@ -44,7 +44,10 @@ A Java-based Command-Line Interface (CLI) Number Guessing Game where the player 
 
 1. Clone the repository:
 
-github link= https://github.com/Mizan576ali/Guessing-Game
+git repository= https://github.com/Mizan576ali/Guessing-Game.git
+
+## Connect to Project URL
+github libk=https://github.com/Mizan576ali/Guessing-Game
 
 
 
