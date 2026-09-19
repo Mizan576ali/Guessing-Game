@@ -47,12 +47,6 @@ A Java-based Command-Line Interface (CLI) Number Guessing Game where the player 
 ```bash
 git clone https://github.com/Mizan576ali/Guessing-Game.git
 
-## Future Improvements
-
-- Better input validation
-- Leaderboard
-- Save scores using file handling
-- GUI version
 
 ## Author
 
